@@ -27,11 +27,9 @@ Languages and Tools :</h3>
 ## <img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="30"> My GitHub Stats
 <details>
 <summary> 🡸 Click here </summary>
-<br/>
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-Ankit2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="j-ankit2020" /></p>
 
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-Ankit2020&layout=compact&langs_count=8&theme=algolia" /></p>
 </details>
-<br/>
 
 ## <img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
