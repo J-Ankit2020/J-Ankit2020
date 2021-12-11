@@ -7,7 +7,8 @@
     Name = 'Ankit Jha'
     Interests = ['Coding','Youtubing','Anime','Manga','memes']
     Motto = while(!(succeed=try()));
-<!--     <p align="left"><img src="./logo.svg"></p> -->
+    
+    <p><img src="./success_factors_re_ce93.svg"/></p
     
 <h3 align="left"><img src="https://media.giphy.com/media/QhifeOLbgR980hxZ4F/giphy.gif" width="35" align="left"/> Connect with me:</h3>
 <br/>
