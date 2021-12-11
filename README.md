@@ -9,7 +9,7 @@
     Motto = while(!(succeed=try()));
 ```
     
-<h3 align="left"><img src="https://media.giphy.com/media/QhifeOLbgR980hxZ4F/giphy.gif" width="35" align="left"/> Connect with me:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="35" align="left"/> Connect with me:</h3>
 <br/>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-jha-b6246520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-jha-b6246520b/" height="30" width="40" /></a>
