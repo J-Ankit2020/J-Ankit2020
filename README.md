@@ -1,11 +1,14 @@
 <h1 align="center">Konnichiwa 👋</h1>
-<h3 align="center">A passionate  developer from India</h3>
+
  <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+ 
+## About Me :wave:
 
     Name = 'Ankit Jha'
     Interests = ['Coding','Youtubing','Anime','Manga','memes']
-    Life Motto = while(!(succeed=try()));
-
+    Motto = while(!(succeed=try()));
+<!--     <p align="left"><img src="./logo.svg"></p> -->
+    
 <h3 align="left"><img src="https://media.giphy.com/media/QhifeOLbgR980hxZ4F/giphy.gif" width="35" align="left"/> Connect with me:</h3>
 <br/>
 <p align="left">
