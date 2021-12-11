@@ -15,7 +15,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-jha-b6246520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-jha-b6246520b/" height="30" width="40" /></a>
 <a href="https://twitter.com/ankitjh03560702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitjh03560702" height="30" width="40" /></a>
 <a href="https://instagram.com/ankit_the_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_the_beast" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jhaa11701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jhaa11701" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -33,4 +32,7 @@ Languages and Tools :</h3>
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-Ankit2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="j-ankit2020" /></p>
 
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-Ankit2020&layout=compact&langs_count=8&theme=algolia" /></p>
+ 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=j-ankit2020&theme=rogue"/></p>
+ 
 </details>
