@@ -17,7 +17,6 @@
 <a href="https://instagram.com/ankit_the_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_the_beast" height="30" width="40" /></a>
 </p>
 <br/>
-![](https://komarev.com/ghpvc/?username=J-Ankit2020&color=green)
 <h3 align="left"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"/>
 Languages and Tools :</h3>
 <br>
@@ -32,3 +31,5 @@ Languages and Tools :</h3>
 <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-Ankit2020&layout=compact&langs_count=8&theme=algolia" /></p>
  
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=j-ankit2020&theme=rogue"/></p>
+
+![](https://hit.yhype.me/github/profile?user_id=73438654)
