@@ -17,7 +17,7 @@
 <a href="https://instagram.com/ankit_the_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_the_beast" height="30" width="40" /></a>
 </p>
 <br/>
-
+![](https://komarev.com/ghpvc/?username=J-Ankit2020&color=green)
 <h3 align="left"><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"/>
 Languages and Tools :</h3>
 <br>
