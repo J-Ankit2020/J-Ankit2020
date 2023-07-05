@@ -3,6 +3,11 @@
  <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
 </p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
  
 ## About Me :wave:
 ```
@@ -46,4 +51,5 @@ Languages and Tools :</h3>
  
 <!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=j-ankit2020&theme=rogue"/></p> -->
 <img src="https://komarev.com/ghpvc/?username=J-Ankit2020&style=flat-square"/>
+
 
